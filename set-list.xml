@@ -1,71 +1,74 @@
-<?xml version = "1.0" encoding="UTF-8"?>
+<?xml version = "1.0" encoding="UTF-8" standalone="yes"?>
 <?xml-stylesheet type="text/css" href="set-list-style.css"?>
 
+<data>
 <set-list>
+  Set List for A Tribute To Modest Mouse
   <song>
     <title>March Into the Sea</title>
     <artist>Modest Mouse</artist>
-    <genre>rock</genre>
+    <genre>Rock</genre>
     <year>2007</year>
   </song>
   <song>
-    <title>Dashboard</title>
+    <title>Never Ending Math Equation</title>
     <artist>Modest Mouse</artist>
-    <genre>rock</genre>
-    <year>2007</year>
+    <genre>Rock</genre>
+    <year>2000</year>
   </song>
   <song>
-    <title>Fire It Up</title>
+    <title>Lounge</title>
     <artist>Modest Mouse</artist>
-    <genre>rock</genre>
-    <year>2007</year>
+    <genre>Rock</genre>
+    <year>1996</year>
   </song>
   <song>
     <title>Florida</title>
     <artist>Modest Mouse</artist>
-    <genre>rock</genre>
+    <genre>Rock</genre>
     <year>2007</year>
   </song>
   <song>
-    <title>Parting of the Sensory</title>
+    <title>Long Distance Drunk</title>
     <artist>Modest Mouse</artist>
-    <genre>rock</genre>
-    <year>2007</year>
+    <genre>Rock</genre>
+    <year>1997</year>
   </song>
   <song>
     <title>Missed the Boat</title>
     <artist>Modest Mouse</artist>
-    <genre>rock</genre>
+    <genre>Rock</genre>
     <year>2007</year>
   </song>
   <song>
     <title>We&apos;ve Got Everything</title>
     <artist>Modest Mouse</artist>
-    <genre>rock</genre>
+    <genre>Rock</genre>
     <year>2007</year>
   </song>
   <song>
-    <title>Fly Trapped in a Jar</title>
+    <title>Coyotes</title>
     <artist>Modest Mouse</artist>
-    <genre>rock</genre>
-    <year>2007</year>
+    <genre>Rock</genre>
+    <year>2015</year>
   </song>
   <song>
     <title>Education</title>
     <artist>Modest Mouse</artist>
-    <genre>rock</genre>
+    <genre>Rock</genre>
     <year>2007</year>
   </song>
   <song>
-    <title>Little Motel</title>
+    <title>Tiny Cities Made of Ashes</title>
     <artist>Modest Mouse</artist>
-    <genre>rock</genre>
-    <year>2007</year>
+    <genre>Rock</genre>
+    <year>2000</year>
   </song>
   <song>
     <title>Steam Engenius</title>
     <artist>Modest Mouse</artist>
-    <genre>rock</genre>
+    <genre>Rock</genre>
     <year>2007</year>
   </song>
 </set-list>
+</data>
