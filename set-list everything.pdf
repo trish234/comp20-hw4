@@ -1,6 +1,9 @@
-XML CODE
+URL of the site: https://trish234.github.io/comp20-hw4/set-list.xml
+
+XML CODE:
+
 <?xml version = "1.0" encoding="UTF-8" standalone="yes"?>
-<?xml-stylesheet type="text/css" href="set-list.css"?>
+<?xml-stylesheet type="text/css" href="set-list-style.css"?>
 
 <data>
 <set-list>
@@ -74,7 +77,7 @@ XML CODE
 </set-list>
 </data>
 
-CSS CODE
+CSS CODE:
 data {
   background-color: rgb(188, 228, 188);
 }
