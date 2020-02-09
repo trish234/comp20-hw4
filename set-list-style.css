@@ -1,74 +1,31 @@
-<?xml version = "1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="set-list.css"?>
-
-<data>
-<set-list>
-  Set List for A Tribute To Modest Mouse
-  <song>
-    <title>March Into the Sea</title>
-    <artist>Modest Mouse</artist>
-    <genre>Rock</genre>
-    <year>2007</year>
-  </song>
-  <song>
-    <title>Never Ending Math Equation</title>
-    <artist>Modest Mouse</artist>
-    <genre>Rock</genre>
-    <year>2000</year>
-  </song>
-  <song>
-    <title>Lounge</title>
-    <artist>Modest Mouse</artist>
-    <genre>Rock</genre>
-    <year>1996</year>
-  </song>
-  <song>
-    <title>Florida</title>
-    <artist>Modest Mouse</artist>
-    <genre>Rock</genre>
-    <year>2007</year>
-  </song>
-  <song>
-    <title>Long Distance Drunk</title>
-    <artist>Modest Mouse</artist>
-    <genre>Rock</genre>
-    <year>1997</year>
-  </song>
-  <song>
-    <title>Missed the Boat</title>
-    <artist>Modest Mouse</artist>
-    <genre>Rock</genre>
-    <year>2007</year>
-  </song>
-  <song>
-    <title>We&apos;ve Got Everything</title>
-    <artist>Modest Mouse</artist>
-    <genre>Rock</genre>
-    <year>2007</year>
-  </song>
-  <song>
-    <title>Coyotes</title>
-    <artist>Modest Mouse</artist>
-    <genre>Rock</genre>
-    <year>2015</year>
-  </song>
-  <song>
-    <title>Education</title>
-    <artist>Modest Mouse</artist>
-    <genre>Rock</genre>
-    <year>2007</year>
-  </song>
-  <song>
-    <title>Tiny Cities Made of Ashes</title>
-    <artist>Modest Mouse</artist>
-    <genre>Rock</genre>
-    <year>2000</year>
-  </song>
-  <song>
-    <title>Steam Engenius</title>
-    <artist>Modest Mouse</artist>
-    <genre>Rock</genre>
-    <year>2007</year>
-  </song>
-</set-list>
-</data>
+data {
+  background-color: rgb(188, 228, 188);
+}
+set-list
+{
+  width: 100%;
+  font-size: 40px;
+}
+song
+{
+  display: flex;
+  flex-direction: row;
+  font-size: 30px;
+  width: 100%;
+  background-color: white;
+  padding-left: 10px;
+  margin: 15px;
+}
+title {
+  font-weight: bold;
+  flex: 4;
+}
+artist{
+  flex:2;
+}
+genre{
+  flex: 2;
+}
+year{
+  flex: 2;
+}
